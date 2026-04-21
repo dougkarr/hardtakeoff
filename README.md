@@ -1,2 +1,0 @@
-# hardtakeoff
-Hard Takeoff Wireframe
